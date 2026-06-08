@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "Arun", "DOB": "22.5.2002", "department": "CSE"}, 
+    {"id": 2, "name": "Sam", "DOB": "25.8.2004", "department": "EEE"}, 
+    {"id": 3, "name": "Raja", "DOB": "20.12.2000", "department": "MECH"}, 
+    {"id": 4, "name": "Ravi", "DOB": "21.3.2000", "department": "CSE"}, 
+    {"id": 5, "name": "Suresh", "DOB": "23.7.2000", "department": "EEE"}, 
+    {"id": 6, "name": "Kumar", "DOB": "24.11.2001", "department": "MECH"}, 
+    {"id": 7, "name": "Vijay", "DOB": "22.5.2002", "department": "CSE"}, 
+    {"id": 8, "name": "Ajay", "DOB": "25.8.2004", "department": "EEE"}, 
+    {"id": 9, "name": "Ramesh", "DOB": "20.12.2000", "department": "MECH"}, 
+    {"id": 10, "name": "Sanjay", "DOB": "21.3.2000", "department": "CSE"}
+]
